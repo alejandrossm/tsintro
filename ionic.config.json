@@ -1,0 +1,7 @@
+{
+  "name": "tsintro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
